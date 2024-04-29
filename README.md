@@ -3,7 +3,7 @@ Demo: https://amet1st.github.io/Telegram-Web-App/
 
 <h2>About</h2>
 This app provides access to any Telegram public channel information via URL search. <br/>
-List of available users data and messages are mocked (file mockedData.ts).
+List of available users and messages are mocked (file mockedData.ts).
 
 <h2>Stack</h2>
 <ul>
